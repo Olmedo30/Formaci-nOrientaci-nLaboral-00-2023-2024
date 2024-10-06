@@ -22,4 +22,13 @@ Repositorio del módulo de Formación y orientación laboral de 1º de DAM. Este
   <li>
     <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-05-2023-2024"></a>
   </li>
+  <li>
+    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-06-2023-2024"></a>
+  </li>
+  <li>
+    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-00-2023-2024"></a>
+  </li>
+  <li>
+    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-00-2023-2024"></a>
+  </li>
 </ol>
