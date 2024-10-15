@@ -14,21 +14,21 @@ Repositorio del módulo de Formación y orientación laboral de 1º de DAM. Este
     <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-03-2023-2024">Primeros auxílios y gestión de la prevención</a>
   </li>
   <li>
-    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-04-2023-2024"></a>
+    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-04-2023-2024">El derecho del trabajo</a>
   </li>
   <li>
-    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-05-2023-2024"></a>
+    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-05-2023-2024">El contrato de trabajo</a>
   </li>
   <li>
-    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-06-2023-2024"></a>
+    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-06-2023-2024">La jornada</a>
   </li>
   <li>
-    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-00-2023-2024"></a>
+    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-00-2023-2024">La nómina</a>
   </li>
   <li>
-    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-00-2023-2024"></a>
+    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-00-2023-2024">Modificación, Extensión y Suspensión del contrato</a>
   </li>
   <li>
-    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-00-2023-2024"></a>
+    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-00-2023-2024">Seguridad Social</a>
   </li>
 </ol>
