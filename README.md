@@ -23,7 +23,7 @@ Repositorio del módulo de Formación y orientación laboral de 1º de DAM. Este
     <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-06-2023-2024">La jornada</a>
   </li>
   <li>
-    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-00-2023-2024">La nómina</a>
+    <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-07-2023-2024">La nómina</a>
   </li>
   <li>
     <a href="https://github.com/Olmedo30/Formación-Orientación-Laboral-00-2023-2024">Modificación, Extensión y Suspensión del contrato</a>
